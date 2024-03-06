@@ -1,6 +1,6 @@
 # Machine Learning Assignments
 
-This repository contains solutions to fundamental machine learning assignments.
+This repository contains solutions to fundamental machine learning class assignments.
 
 ## Assignment 0: Introduction 
 
